@@ -1,0 +1,8 @@
+- name: Project 1
+  url: https://example.com/project1
+
+- name: Project 2
+  url: https://example.com/project2
+
+- name: Project 3
+  url: https://example.com/project3
